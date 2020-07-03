@@ -1,0 +1,10 @@
+C:\Users\sergi\source\repos\App22\bin\Debug\netcoreapp3.1\App22.exe
+C:\Users\sergi\source\repos\App22\bin\Debug\netcoreapp3.1\App22.deps.json
+C:\Users\sergi\source\repos\App22\bin\Debug\netcoreapp3.1\App22.runtimeconfig.json
+C:\Users\sergi\source\repos\App22\bin\Debug\netcoreapp3.1\App22.runtimeconfig.dev.json
+C:\Users\sergi\source\repos\App22\bin\Debug\netcoreapp3.1\App22.dll
+C:\Users\sergi\source\repos\App22\bin\Debug\netcoreapp3.1\App22.pdb
+C:\Users\sergi\source\repos\App22\obj\Debug\netcoreapp3.1\App22.AssemblyInfoInputs.cache
+C:\Users\sergi\source\repos\App22\obj\Debug\netcoreapp3.1\App22.AssemblyInfo.cs
+C:\Users\sergi\source\repos\App22\obj\Debug\netcoreapp3.1\App22.dll
+C:\Users\sergi\source\repos\App22\obj\Debug\netcoreapp3.1\App22.pdb
